@@ -1,4 +1,4 @@
-# Weather App
+# Weather App 
 
 A simple weather application built using **HTML, CSS, and JavaScript**, leveraging **RapidAPI** to fetch real-time weather data.
 
@@ -16,6 +16,9 @@ A simple weather application built using **HTML, CSS, and JavaScript**, leveragi
 ## Website Link 
 Link - https://manojku9.github.io/weather-app/
 
+## Screenshots
+![Weather App Screenshot](screenshot.png)
+
 ## Installation & Setup
 1. Clone the repository:
    ```sh
@@ -32,8 +35,6 @@ Link - https://manojku9.github.io/weather-app/
 - Enter a city name in the search box and hit enter.
 - View the real-time weather details.
 
-## Screenshots
-![Weather App Screenshot](screenshot.png)
 
 ## Contributing
 Feel free to fork this repository and submit pull requests for improvements.
