@@ -1,4 +1,4 @@
-# Weather App 
+# [Weather App](https://manojku9.github.io/weather-app/) 
 
 A simple weather application built using **HTML, CSS, and JavaScript**, leveraging **RapidAPI** to fetch real-time weather data.
 
