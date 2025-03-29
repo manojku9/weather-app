@@ -13,6 +13,9 @@ A simple weather application built using **HTML, CSS, and JavaScript**, leveragi
 - **JavaScript**: Fetching and displaying weather data
 - **RapidAPI**: To retrieve weather information
 
+## Website Link 
+Link - https://manojku9.github.io/weather-app/
+
 ## Installation & Setup
 1. Clone the repository:
    ```sh
