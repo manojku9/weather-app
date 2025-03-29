@@ -17,7 +17,7 @@ A simple weather application built using **HTML, CSS, and JavaScript**, leveragi
 Link - https://manojku9.github.io/weather-app/
 
 ## Screenshots
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](screenshot.jpg)
 
 ## Installation & Setup
 1. Clone the repository:
