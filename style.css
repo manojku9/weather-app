@@ -1,0 +1,66 @@
+/* General Page Styling */
+body {
+    background-color: #f4f9ff; /* Light blue background */
+    color: #333; /* Dark gray text */
+    font-family: Arial, sans-serif;
+}
+
+
+
+.navbar {
+    background-color: #226ba3 !important;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: white !important;
+}
+
+/* Search Bar */
+.form-control {
+    border-radius: 20px;
+}
+
+/* Weather Cards */
+.card {
+    border-radius: 15px;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.03);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card-header {
+    background-color: #007bff; /* Blue headers */
+    color: white;
+}
+
+/* Weather Text Styling */
+
+
+/* Table Styling */
+.table {
+    background-color: white;
+    border-radius: 10px;
+}
+
+
+
+td {
+    background-color: #f0f8ff;
+    
+}
+
+/* Button Styling */
+.btn-outline-success {
+    background-color: #28a745;
+    color: white;
+}
+
+.btn-outline-success:hover {
+    color: white;
+}
+
+
