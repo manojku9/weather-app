@@ -24,14 +24,6 @@ A simple weather application built using **HTML, CSS, and JavaScript**, leveragi
    ```
 3. Open `index.html` in your browser.
 
-## API Setup
-1. Sign up at [RapidAPI](https://rapidapi.com/).
-2. Subscribe to a weather API (e.g., OpenWeather, WeatherAPI).
-3. Get your API key.
-4. Replace `YOUR_API_KEY` in the `script.js` file:
-   ```js
-   const API_KEY = 'YOUR_API_KEY';
-   ```
 
 ## Usage
 - Enter a city name in the search box and hit enter.
